@@ -1,0 +1,13 @@
+x = 10
+y = 11
+
+# code made in romania
+
+intrare x
+intrare y
+
+daca x > y {
+    afiseaza "x e mai mare"
+} altfel {
+    afiseaza "y e mai mare"
+}
